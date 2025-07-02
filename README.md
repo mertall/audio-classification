@@ -1,6 +1,6 @@
 # Water Bottle Challenge
 
-**Purpose**: Build an unsupervised classifier to distinguish between knife-strikes on the *top* vs *bottom* of a stainless steel water bottle, using only two labeled examples and 24 unlabeled spectrogram CSVs.
+**Purpose**: Build an unsupervised classifier to distinguish between knife-strikes on the *top* vs *bottom* of a stainless steel water bottle, using only two labeled examples and 24 unlabeled spectrogram CSVs.    
 **Results** 95% accuracy on labeled data!
 ---
 
